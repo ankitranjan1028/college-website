@@ -359,6 +359,10 @@ footer.footer .container{
     justify-content:center;
     grid-template-columns: repeat(4, 1fr);
 }
+.ankit
+{
+    display: flex;
+}
 
 footer.footer .container > div{
     flex-grow: 1;
@@ -401,6 +405,7 @@ footer.footer .move-up span:hover{
     color: var(--white);
     cursor: pointer;
 }
+
 
 /* ---------x------- Footer ----------x---------- */
 
